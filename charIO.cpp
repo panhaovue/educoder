@@ -12,11 +12,11 @@ int main()
 {
     // 请在此添加‘重要的事情说三遍’的代码
     /********** Begin *********/
-	char c = getchar();
-	for(int i=0;i<3;i++){
+    char c = getchar();
+    for(int i=0;i<3;i++){
     	putchar(c);
     }
     putchar('!');
-        /********** End **********/
+    /********** End **********/
     return 0;
 }
